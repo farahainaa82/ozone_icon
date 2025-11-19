@@ -1,0 +1,5 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+<circle cx="64" cy="64" r="20" stroke="#00823F" stroke-width="6" fill="none"/>
+<text x="50" y="72" font-size="32" fill="#00823F" font-family="Arial">Cl</text>
+<circle cx="90" cy="48" r="5" fill="#00823F"/>
+</svg>

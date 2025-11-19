@@ -1,0 +1,6 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+<circle cx="50" cy="64" r="18" stroke="#00823F" stroke-width="6" fill="none"/>
+<circle cx="90" cy="64" r="14" stroke="#00823F" stroke-width="6" fill="none"/>
+<line x1="68" y1="64" x2="72" y2="64" stroke="#00823F" stroke-width="6"/>
+<text x="42" y="70" fill="#00823F" font-size="24">Cl</text>
+</svg>

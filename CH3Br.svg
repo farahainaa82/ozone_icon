@@ -1,0 +1,6 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+<circle cx="64" cy="64" r="20" stroke="#00823F" stroke-width="6" fill="none"/>
+<text x="48" y="70" font-size="24" fill="#00823F">CH₃</text>
+<circle cx="100" cy="64" r="14" stroke="#00823F" stroke-width="6" fill="none"/>
+<text x="94" y="70" font-size="24" fill="#00823F">Br</text>
+</svg>
