@@ -1,0 +1,7 @@
+
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="70" font-size="48" font-family="Arial" fill="#00823F">CFC</text>
+  <text x="170" y="70" font-size="48" font-family="Arial" fill="#00823F">→</text>
+  <text x="260" y="70" font-size="48" font-family="Arial" fill="#00823F">Cl</text>
+  <circle cx="330" cy="50" r="6" fill="#00823F"/>
+</svg>

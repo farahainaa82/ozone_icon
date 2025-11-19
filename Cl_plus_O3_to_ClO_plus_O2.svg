@@ -1,0 +1,16 @@
+
+<svg width="700" height="140" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="80" font-size="48" font-family="Arial" fill="#00823F">Cl</text>
+
+  <text x="110" y="80" font-size="48" font-family="Arial" fill="#00823F">+</text>
+
+  <text x="170" y="80" font-size="48" font-family="Arial" fill="#00823F">O₃</text>
+
+  <text x="280" y="80" font-size="48" font-family="Arial" fill="#00823F">→</text>
+
+  <text x="360" y="80" font-size="48" font-family="Arial" fill="#00823F">ClO</text>
+
+  <text x="500" y="80" font-size="48" font-family="Arial" fill="#00823F">+</text>
+
+  <text x="560" y="80" font-size="48" font-family="Arial" fill="#00823F">O₂</text>
+</svg>
